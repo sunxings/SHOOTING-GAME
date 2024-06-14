@@ -1,2 +1,2 @@
 # SHOOTING-GAME
-First personal shooting game with some simple game level and exploding spider.
+第一人称射击游戏
